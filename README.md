@@ -32,4 +32,5 @@ The dataset contains the following folders:
 If you use this dataset in your work, please cite the corresponding paper once it is officially published.
 
 ```bibtex
-@article{}
+@article{
+}
