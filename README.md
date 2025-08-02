@@ -12,5 +12,4 @@ Tracked Objects	Vehicles, Pedestrians
 Annotations	ID, frame, timestamp, 3D size, 2D/3D position, velocity
 
 
-Dataset can be found CrossTraj-data
-[https://panthers-my.sharepoint.com/:f:/g/personal/muhamm72_uwm_edu/EtMlMxW-TLtGomVDfiTQBL4BVgBp_GGgCOhUZzYqztvWFA?e=sPi3LP](url)
+Dataset can be found [CrossTraj-DataSet](https://panthers-my.sharepoint.com/:f:/g/personal/muhamm72_uwm_edu/EtMlMxW-TLtGomVDfiTQBL4BVgBp_GGgCOhUZzYqztvWFA?e=sPi3LP)
