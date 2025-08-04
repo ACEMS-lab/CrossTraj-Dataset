@@ -33,14 +33,14 @@ If you use this dataset in your work, please cite the corresponding paper once i
 
 ```bibtex
 @conference{fahad_2025_crosstraj,
-  author    = {Muhammad Fahad and Anisha Tasnim and Tianyang Xiong and Agam Damaraju and Tian Zhao and Xiao Qin and Xiaowei Shi},
+  author    = {Muhammad Fahad, Anisha Tasnim, Tianyang Xiong, Agam Damaraju, Tian Zhao, Xiao Qin, Xiaowei Shi*},
   title     = {A Trajectory Dataset of Pedestrian–Vehicle Interactions at Crosswalks via Deep Learning and Roadside Cameras},
   year      = {2025},
   publisher = {Transportation Research Board (TRB) 103rd Annual Meeting, Submitted for Review}
 }
 
 @conference{fahad_2025_framework,
-  author    = {Muhammad Fahad and Anisha Tasnim and Tianyang Xiong and Agam Damaraju and Tian Zhao and Xiao Qin and Xiaowei Shi},
+  author    = {Muhammad Fahad, Anisha Tasnim, Tianyang Xiong, Agam Damaraju, Tian Zhao, Xiao Qin, Xiaowei Shi*},
   title     = {A Comprehensive Evaluation Framework for Roadside Perception Systems},
   year      = {2025},
   publisher = {Transportation Research Board (TRB) 103rd Annual Meeting, Submitted for Review}
