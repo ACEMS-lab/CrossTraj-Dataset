@@ -11,7 +11,7 @@ This dataset is designed to support benchmarking in computer vision and behavior
 
 Dataset available at: [CrossTraj-DataSet](https://panthers-my.sharepoint.com/:f:/g/personal/muhamm72_uwm_edu/EtMlMxW-TLtGomVDfiTQBL4BVgBp_GGgCOhUZzYqztvWFA?e=sPi3LP)
 ---
-
+if you have question, you can contact me, My name is Muhammad Fahad and here is my email muhamm72@uwm.edu
 ## Contents
 
 The dataset contains the following folders:
@@ -33,4 +33,16 @@ If you use this dataset in your work, please cite the corresponding paper once i
 
 ```bibtex
 @article{
+@conference{fahad_2025_crosstraj,
+  author    = {Muhammad Fahad, Anisha Tasnim, Tianyang Xiong, Agam Damaraju, Tian Zhao, Xiao Qin, Xiaowei Shi*},
+  title     = {A Trajectory Dataset of Pedestrian–Vehicle Interactions at Crosswalks via Deep Learning and Roadside Cameras},
+  year      = {2025},
+  publisher = {Transportation Research Board (TRB) 103rd Annual Meeting, Submitted for Review}
+}
+
+@conference{fahad_2025_framework,
+  author    = {Muhammad Fahad, Anisha Tasnim, Tianyang Xiong, Agam Damaraju, Tian Zhao, Xiao Qin, Xiaowei Shi*},
+  title     = {A Comprehensive Evaluation Framework for Roadside Perception Systems},
+  year      = {2025},
+  publisher = {Transportation Research Board (TRB) 103rd Annual Meeting, Submitted for Review}
 }
