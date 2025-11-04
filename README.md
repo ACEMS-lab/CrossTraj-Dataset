@@ -1,6 +1,7 @@
 # CrossTraj Trajectory Dataset
 
-**CrossTraj** is a high-resolution urban trajectory dataset collected at a midblock crosswalk in the City of Milwaukee, Wisconsin. It captures fine-grained interactions between vehicles and pedestrians under diverse seasonal conditions, including both winter and summer.
+**CrossTraj** is a high-resolution urban trajectory dataset collected at a midblock crosswalk in the City of Milwaukee, Wisconsin. The dataset was extracted from two distinct one-hour video recordings obtained
+during winter and summer, capturing seasonal and traffic dynamics. Data was collected using synchronized panoramic roadside cameras covering approximately 200 meters of road, enabling the extraction of extended trajectories rather than short-duration motion clips.
 
 This dataset is designed to support benchmarking in computer vision and behavior modeling tasks such as:
 
@@ -11,7 +12,7 @@ This dataset is designed to support benchmarking in computer vision and behavior
 
 Dataset available at: [CrossTraj-DataSet](https://panthers-my.sharepoint.com/:f:/g/personal/muhamm72_uwm_edu/EtMlMxW-TLtGomVDfiTQBL4BVgBp_GGgCOhUZzYqztvWFA?e=sPi3LP)
 ---
-if you have question, you can contact me, My name is Muhammad Fahad and here is my email muhamm72@uwm.edu
+If you have questions, you can contact the ACEMS lab at the University of Wisconsin-Milwaukee at tomshi@uwm.edu (Prof. Tom Shi) and muhamm72@uwm.edu (Muhammad Fahad).
 ## Contents
 
 The dataset contains the following folders:
@@ -29,7 +30,7 @@ The dataset contains the following folders:
 
 ## Citation
 
-If you use this dataset in your work, please cite the corresponding paper once it is officially published.
+If you use this dataset in your work, please cite the corresponding papers once it is officially published.
 
 ```bibtex
 @article{
