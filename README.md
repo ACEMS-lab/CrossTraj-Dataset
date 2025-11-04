@@ -32,6 +32,7 @@ The dataset contains the following folders:
 If you use this dataset in your work, please cite the corresponding paper once it is officially published.
 
 ```bibtex
+@article{
 @conference{fahad_2025_crosstraj,
   author    = {Muhammad Fahad, Anisha Tasnim, Tianyang Xiong, Agam Damaraju, Tian Zhao, Xiao Qin, Xiaowei Shi*},
   title     = {A Trajectory Dataset of Pedestrian–Vehicle Interactions at Crosswalks via Deep Learning and Roadside Cameras},
