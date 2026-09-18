@@ -10,7 +10,7 @@ This dataset is designed to support benchmarking in computer vision and behavior
 - Trajectory prediction
 - Pedestrian-vehicle interaction analysis
 
-Dataset available at: [CrossTraj-DataSet](https://panthers.sharepoint.com/:f:/r/sites/ACEMSlab-Group-FahadMuhammad/Shared%20Documents/Fahad%20Muhammad/CrossTraj_Dataset?d=w8767a40a46e6498497d222c0027ba3fd&csf=1&web=1)
+Dataset available at: [CrossTraj-DataSet](https://drive.google.com/drive/folders/1OO3yV8yvPsFGvJ9Hddd8uCMUMKm5syBq?usp=sharing)
 ---
 If you have questions, you can contact the ACEMS lab at the University of Wisconsin-Milwaukee at tomshi@uwm.edu (Prof. Tom Shi) and muhamm72@uwm.edu (Muhammad Fahad).
 ## Contents
